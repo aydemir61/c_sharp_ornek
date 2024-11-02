@@ -1,0 +1,15 @@
+C:\Users\TS_61\Desktop\c_sharp_ornek\consoleApp\bin\Debug\net8.0\consoleApp.exe
+C:\Users\TS_61\Desktop\c_sharp_ornek\consoleApp\bin\Debug\net8.0\consoleApp.deps.json
+C:\Users\TS_61\Desktop\c_sharp_ornek\consoleApp\bin\Debug\net8.0\consoleApp.runtimeconfig.json
+C:\Users\TS_61\Desktop\c_sharp_ornek\consoleApp\bin\Debug\net8.0\consoleApp.dll
+C:\Users\TS_61\Desktop\c_sharp_ornek\consoleApp\bin\Debug\net8.0\consoleApp.pdb
+C:\Users\TS_61\Desktop\c_sharp_ornek\consoleApp\obj\Debug\net8.0\consoleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TS_61\Desktop\c_sharp_ornek\consoleApp\obj\Debug\net8.0\consoleApp.AssemblyInfoInputs.cache
+C:\Users\TS_61\Desktop\c_sharp_ornek\consoleApp\obj\Debug\net8.0\consoleApp.AssemblyInfo.cs
+C:\Users\TS_61\Desktop\c_sharp_ornek\consoleApp\obj\Debug\net8.0\consoleApp.csproj.CoreCompileInputs.cache
+C:\Users\TS_61\Desktop\c_sharp_ornek\consoleApp\obj\Debug\net8.0\consoleApp.sourcelink.json
+C:\Users\TS_61\Desktop\c_sharp_ornek\consoleApp\obj\Debug\net8.0\consoleApp.dll
+C:\Users\TS_61\Desktop\c_sharp_ornek\consoleApp\obj\Debug\net8.0\refint\consoleApp.dll
+C:\Users\TS_61\Desktop\c_sharp_ornek\consoleApp\obj\Debug\net8.0\consoleApp.pdb
+C:\Users\TS_61\Desktop\c_sharp_ornek\consoleApp\obj\Debug\net8.0\consoleApp.genruntimeconfig.cache
+C:\Users\TS_61\Desktop\c_sharp_ornek\consoleApp\obj\Debug\net8.0\ref\consoleApp.dll
