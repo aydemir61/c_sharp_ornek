@@ -14,6 +14,8 @@
         urunler.Add(new Product(){Id=1,Title="IPhone 15",Price=50000});
         urunler.Add(new Product(){Id=1,Title="IPhone 16",Price=60000});
         urunler.Insert(urunler.Count, new Product(){Id=4, Title="IPhone 17", Price=70000});
+
+        urunler.RemoveAt(2);    
         foreach (var urun in urunler)
         {
             Console.WriteLine(urun.Title+" "+urun.Price);
