@@ -1,0 +1,15 @@
+C:\Users\TS_61\Desktop\c_sharp_ornek\exception_exercises_2\exception_2\bin\Debug\net8.0\exception_2.exe
+C:\Users\TS_61\Desktop\c_sharp_ornek\exception_exercises_2\exception_2\bin\Debug\net8.0\exception_2.deps.json
+C:\Users\TS_61\Desktop\c_sharp_ornek\exception_exercises_2\exception_2\bin\Debug\net8.0\exception_2.runtimeconfig.json
+C:\Users\TS_61\Desktop\c_sharp_ornek\exception_exercises_2\exception_2\bin\Debug\net8.0\exception_2.dll
+C:\Users\TS_61\Desktop\c_sharp_ornek\exception_exercises_2\exception_2\bin\Debug\net8.0\exception_2.pdb
+C:\Users\TS_61\Desktop\c_sharp_ornek\exception_exercises_2\exception_2\obj\Debug\net8.0\exception_2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TS_61\Desktop\c_sharp_ornek\exception_exercises_2\exception_2\obj\Debug\net8.0\exception_2.AssemblyInfoInputs.cache
+C:\Users\TS_61\Desktop\c_sharp_ornek\exception_exercises_2\exception_2\obj\Debug\net8.0\exception_2.AssemblyInfo.cs
+C:\Users\TS_61\Desktop\c_sharp_ornek\exception_exercises_2\exception_2\obj\Debug\net8.0\exception_2.csproj.CoreCompileInputs.cache
+C:\Users\TS_61\Desktop\c_sharp_ornek\exception_exercises_2\exception_2\obj\Debug\net8.0\exception_2.sourcelink.json
+C:\Users\TS_61\Desktop\c_sharp_ornek\exception_exercises_2\exception_2\obj\Debug\net8.0\exception_2.dll
+C:\Users\TS_61\Desktop\c_sharp_ornek\exception_exercises_2\exception_2\obj\Debug\net8.0\refint\exception_2.dll
+C:\Users\TS_61\Desktop\c_sharp_ornek\exception_exercises_2\exception_2\obj\Debug\net8.0\exception_2.pdb
+C:\Users\TS_61\Desktop\c_sharp_ornek\exception_exercises_2\exception_2\obj\Debug\net8.0\exception_2.genruntimeconfig.cache
+C:\Users\TS_61\Desktop\c_sharp_ornek\exception_exercises_2\exception_2\obj\Debug\net8.0\ref\exception_2.dll
